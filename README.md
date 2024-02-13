@@ -1,45 +1,34 @@
-# Hello, I'm Loozah Shrestha 👋
+<h1 align="center">Hi 👋, I'm Loozah Shrestha</h1>
+<h3 align="center">A student currently working on my skills</h3>
 
-Welcome to my GitHub profile! I'm a student currently, passionate about mern stack and web development. Here you'll find some of my projects and contributions.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadumon&label=Profile%20views&color=0e75b6&style=flat" alt="hadumon" /> </p>
 
-## About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadumon" alt="hadumon" /></a> </p>
 
-- 💼 [LinkedIn](www.linkedin.com/in/loozah-shrestha-598981267)
-- 🐦 [Twitter](https://twitter.com/@LoozahShre66808)
-- 📧 [Email](shresthaloozah@gmail.com)
+<p align="left"> <a href="https://twitter.com/loozahshre66808" target="blank"><img src="https://img.shields.io/twitter/follow/loozahshre66808?logo=twitter&style=for-the-badge" alt="loozahshre66808" /></a> </p>
 
-## Projects
+- 🔭 I’m currently working on **instagramStory**
 
-### 🛍️ Amazon Clone Project
+- 🌱 I’m currently learning **React**
 
-Replicating the iconic Amazon shopping experience with HTML and CSS! Explore a visually appealing and responsive clone of Amazon's user interface. Dive into seamless navigation, product listings, and a clean checkout process—all crafted using fundamental web development technologies. Enhance your front-end skills and showcase a virtual shopping experience inspired by the e-commerce giant.
+- 💬 Ask me about **html,css,javascript**
 
-[Link to Project 1 Repository](https://github.com/hadumon/amazon-clone)
+- 📫 How to reach me **shresthaloozah@gmail.com**
 
-### ✊🤚✌️ Rock-Paper-Scissors Game
+- ⚡ Fun fact **I like anime...**
 
-Experience the classic Rock-Paper-Scissors game brought to life with HTML, CSS, and JavaScript! Play against the computer, make your move, and witness the outcome in a sleek and intuitive interface. Test your strategy, enjoy the thrill of each round, and track your victories. A fun and interactive project to enhance your front-end development skills.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/loozahshre66808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loozahshre66808" height="30" width="40" /></a>
+<a href="https://fb.com/loozah stha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="loozah stha" height="30" width="40" /></a>
+<a href="https://instagram.com/_hadu_ways_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hadu_ways_" height="30" width="40" /></a>
+</p>
 
-[Link to Project 2 Repository](https://github.com/hadumon/rock-paper-scissor)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadumon&show_icons=true&locale=en&layout=compact" alt="hadumon" /></p>
 
-## Skills
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadumon&show_icons=true&locale=en" alt="hadumon" /></p>
 
-- HTML
-- CSS
-- JavaScript
--C++
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadumon&show_icons=true&theme=dark)
-
-## Let's Connect!
-
-Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/) or [Twitter](https://twitter.com/your-username). I'm always open to collaborations and interesting conversations!
-
-Happy coding! 🚀
-<!---
-hadumon/hadumon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadumon&" alt="hadumon" /></p>
