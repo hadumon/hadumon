@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://media.tenor.com/bbqE1hQJYpAAAAi/anime-computer.gif" width="220"/>
@@ -31,26 +30,24 @@ ask_me_about:
   - FastAPI
   - Anime
 fun_fact: "Currently surviving on caffeine and broken deployments."
-````
+```
 
 ---
 
 ## 🚀 Current Mission
 
-> Building logistics infrastructure for Nepal
-> while experimenting with AI-powered systems and modern web tech.
+> Building logistics infrastructure for Nepal while experimenting with AI-powered systems and modern web tech.
 
 ---
 
-# 🌊 Bahuraksha — Early Warning System
+## 🌊 Bahuraksha — Early Warning System
 
 AI-powered flood & glacier monitoring system using:
 
-* Sentinel Satellite Data
-* FastAPI
-* XGBoost
-* Rasterio
-* Geospatial ML
+![Sentinel](https://img.shields.io/badge/Sentinel-Satellite_Data-1D9E75?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-BA7517?style=flat-square)
+![Rasterio](https://img.shields.io/badge/Rasterio-Geospatial-7F77DD?style=flat-square)
 
 ```python
 if flood_detected:
@@ -61,83 +58,56 @@ if flood_detected:
 
 ## 🛠 Tech Stack
 
-<div align="center">
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,python,fastapi,postgres,supabase,git,github,vscode" />
-
-</div>
+**Backend & AI**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hadumon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadumon&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hadumon&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadumon&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadumon&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/hadumon/hadumon/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hadumon&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://twitter.com/loozahshre66808">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-<a href="https://linkedin.com/in/loozah-shrestha-598981267">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://instagram.com/_del_uge_">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-hadumon-181717?style=flat-square&logo=github)](https://github.com/hadumon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
 
 ---
 
-<div align="center">
-
-### ⚔️ Dev Quote
+## ⚔️ Dev Quote
 
 > *"Currently surviving on caffeine and broken deployments."*
 
-<img src="https://komarev.com/ghpvc/?username=hadumon&label=Profile%20Views&color=0e75b6&style=flat" alt="hadumon" />
+---
 
-</div>
+## 🎴 Anime Energy
+
+`Rimuru Tempest` · `Nano Machine` · `Isekai Mindset`
 
 ---
 
 <div align="center">
-
-### 🎴 Anime Energy
-
-<img src="https://media.tenor.com/Lm6B7b6d6GAAAAAC/anime-girl.gif" width="500"/>
-
+<sub>Made with 💙 and too much caffeine</sub>
 </div>
-```
