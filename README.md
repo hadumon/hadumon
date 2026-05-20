@@ -6,11 +6,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
-- 🔭 I’m currently working on **pythonAutomation**
+- 🔭 I’m currently working on **Logistics App**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Astro**
 
-- 💬 Ask me about **html,css,javascript**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **shresthaloozah@gmail.com**
 
