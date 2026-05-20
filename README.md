@@ -1,34 +1,143 @@
-<h1 align="center">Hi 👋, I'm Loozah Shrestha</h1>
-<h3 align="center">A student currently working on my skills</h3>
+````md
+<div align="center">
 
+<img src="https://media.tenor.com/bbqE1hQJYpAAAAi/anime-computer.gif" width="220"/>
 
-<p align="left"> <a href="https://twitter.com/loozahshre66808" target="blank"><img src="https://img.shields.io/twitter/follow/loozahshre66808?logo=twitter&style=for-the-badge" alt="loozahshre66808" /></a> </p>
+# Hey 👋 I'm Loozah Shrestha
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
+### `Just a dev trying to become Rimuru Tempest`
 
-- 🔭 I’m currently working on **Logistics App**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%2B+Next.js+Enjoyer;Building+Logistics+Infrastructure;FastAPI+%2B+AI+Projects;Currently+surviving+on+caffeine..." alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Astro**
+</div>
 
-- 💬 Ask me about **Frontend**
+---
 
-- 📫 How to reach me **shresthaloozah@gmail.com**
+## 🌌 About Me
 
-- ⚡ Fun fact **I like anime...**
+```yaml
+name: Loozah Shrestha
+username: hadumon
+role: Student Developer
+focus: Logistics Infrastructure + AI Systems
+currently_learning:
+  - Astro
+  - System Design
+  - Backend Architecture
+ask_me_about:
+  - React
+  - Next.js
+  - Frontend
+  - FastAPI
+  - Anime
+fun_fact: "Currently surviving on caffeine and broken deployments."
+````
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/loozahshre66808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loozahshre66808" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/loozah-shrestha-598981267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loozah-shrestha-598981267" height="30" width="40" /></a>
-<a href="https://fb.com/Loozah Shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="loozah stha" height="30" width="40" /></a>
-<a href="https://instagram.com/_del_uge_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hadu_ways_" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🚀 Current Mission
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadumon&show_icons=true&locale=en&layout=compact" alt="hadumon" /></p>
+> Building logistics infrastructure for Nepal
+> while experimenting with AI-powered systems and modern web tech.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadumon&show_icons=true&locale=en" alt="hadumon" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadumon&" alt="hadumon" /></p>
+# 🌊 Bahuraksha — Early Warning System
+
+AI-powered flood & glacier monitoring system using:
+
+* Sentinel Satellite Data
+* FastAPI
+* XGBoost
+* Rasterio
+* Geospatial ML
+
+```python
+if flood_detected:
+    alert_population()
+```
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,python,fastapi,postgres,supabase,git,github,vscode" />
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hadumon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadumon&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadumon&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/hadumon/hadumon/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://twitter.com/loozahshre66808">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://linkedin.com/in/loozah-shrestha-598981267">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/_del_uge_">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚔️ Dev Quote
+
+> *"Currently surviving on caffeine and broken deployments."*
+
+<img src="https://komarev.com/ghpvc/?username=hadumon&label=Profile%20Views&color=0e75b6&style=flat" alt="hadumon" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎴 Anime Energy
+
+<img src="https://media.tenor.com/Lm6B7b6d6GAAAAAC/anime-girl.gif" width="500"/>
+
+</div>
+```
