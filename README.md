@@ -18,7 +18,7 @@
 name: Loozah Shrestha
 username: hadumon
 role: Student Developer
-focus: Logistics Infrastructure + AI Systems
+focus: business-os
 currently_learning:
   - Astro
   - System Design
