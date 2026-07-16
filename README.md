@@ -36,7 +36,7 @@ fun_fact: "Currently surviving on caffeine and broken deployments."
 
 ## 🚀 Current Mission
 
-> Building logistics infrastructure for Nepal while experimenting with AI-powered systems and modern web tech.
+> Building business-os for Nepal while experimenting with AI-powered systems and modern web tech.
 
 ---
 
